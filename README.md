@@ -4,17 +4,48 @@ MoneyTrak est une application de gestion des abonnements et des dépenses. Ce gu
 
 ## Télécharger l'application
 
-Pour télécharger l'application MoneyTrak, suivez les étapes ci-dessous :
+Pour télécharger l'application **MoneyTrak**, suivez les étapes ci-dessous :
 
-1. **Sur Android** :
-   - Ouvrez le Google Play Store sur votre appareil Android.
-   - Recherchez "MoneyTrak" dans la barre de recherche.
-   - Cliquez sur "Installer" pour télécharger et installer l'application.
+### Sur Android
 
-2. **Sur iOS** :
-   - Ouvrez l'App Store sur votre iPhone.
-   - Recherchez "MoneyTrak" dans la barre de recherche.
-   - Cliquez sur "Obtenir" pour télécharger et installer l'application.
+1. **Télécharger le fichier APK** :
+   - [Téléchargez le fichier **MoneyTrak.apk** ici](./MoneyTrak.apk).
+   - Ouvrez le fichier téléchargé pour installer l'application.
+
+### Sur iOS
+
+Pour installer **MoneyTrak** sur votre iPhone ou iPad, vous pouvez utiliser **AltStore**, une application qui permet d'installer des applications non disponibles sur l'App Store sans nécessiter de jailbreak.
+
+**Étapes pour installer AltStore et MoneyTrak sur iOS** :
+
+1. **Télécharger et installer AltServer sur votre ordinateur** :
+   - Rendez-vous sur le site officiel d'AltStore : [https://altstore.io/](https://altstore.io/)
+   - Téléchargez la version d'AltServer correspondant à votre système d'exploitation (macOS ou Windows).
+   - Installez AltServer en suivant les instructions fournies sur le site.
+
+2. **Préparer votre iPhone ou iPad** :
+   - Connectez votre appareil iOS à votre ordinateur à l'aide d'un câble USB.
+   - Assurez-vous que votre appareil est déverrouillé et que vous avez sélectionné "Faire confiance à cet ordinateur" si cela vous est demandé.
+
+3. **Installer AltStore sur votre appareil iOS** :
+   - Lancez AltServer sur votre ordinateur.
+   - Cliquez sur l'icône AltServer dans la barre des tâches (Windows) ou la barre de menus (macOS).
+   - Sélectionnez "Install AltStore" et choisissez votre appareil iOS.
+   - Entrez votre identifiant Apple et votre mot de passe lorsque cela vous est demandé.
+   - Une fois l'installation terminée, l'application **AltStore** apparaîtra sur votre appareil iOS.
+
+4. **Faire confiance au certificat de l'application AltStore** :
+   - Sur votre appareil iOS, allez dans **Réglages** > **Général** > **Gestion des profils et de l'appareil**.
+   - Sélectionnez le profil associé à votre identifiant Apple et appuyez sur "Faire confiance".
+
+5. **Installer l'application MoneyTrak via AltStore** :
+   - [Téléchargez le fichier **MoneyTrak.ipa** ici](./MoneyTrak.ipa).
+   - Ouvrez l'application **AltStore** sur votre appareil iOS.
+   - Appuyez sur l'onglet "My Apps" (Mes applications).
+   - Appuyez sur le bouton "+" en haut à gauche et sélectionnez le fichier **MoneyTrak.ipa** que vous avez téléchargé.
+   - L'application **MoneyTrak** sera installée sur votre appareil iOS.
+
+**Remarque** : Les applications installées via AltStore sont valides pendant 7 jours. Pour les renouveler, ouvrez AltStore sur votre appareil iOS et connectez-vous à AltServer sur votre ordinateur.
 
 ---
 
