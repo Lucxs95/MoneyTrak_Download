@@ -32,7 +32,7 @@ La première page de l'application permet à l'utilisateur de s'inscrire en four
 
 L'utilisateur peut ensuite cliquer sur le bouton **S'inscrire** pour compléter l'inscription. Si l'utilisateur a déjà un compte, il peut se connecter via le lien **Se connecter** situé en bas de la page.
 
-<img src="./images/IMG_3886.png" alt="Page d'inscription" width="600"/>
+<img src="./images/IMG_3886.png" alt="Page d'inscription" width="300"/>
 
 ### Page de connexion
 
@@ -40,7 +40,7 @@ La page de connexion permet à l'utilisateur de se connecter à son compte en re
 
 Une fois les informations saisies, l'utilisateur peut appuyer sur le bouton **Se connecter** pour accéder à l'application. Si l'utilisateur n'a pas encore de compte, il peut créer un compte via le lien **S'inscrire** en bas de la page.
 
-<img src="./images/IMG_3885.png" alt="Page de connexion" width="600"/>
+<img src="./images/IMG_3885.png" alt="Page de connexion" width="300"/>
 
 ---
 
@@ -65,9 +65,9 @@ Un calendrier s'affiche, et l'utilisateur peut choisir le jour à partir duquel 
 
 Cela permet de personnaliser le calcul des dépenses, par exemple si les dépenses sont calculées à partir du 15 du mois plutôt que du 1er.
 
-<img src="./images/IMG_3893.png" alt="Réglage du jour de début du mois" width="600"/>
+<img src="./images/IMG_3893.png" alt="Réglage du jour de début du mois" width="300"/>
 
-<img src="./images/IMG_3887.png" alt="Page d'accueil centrée sur le jour actuel" width="600"/>
+<img src="./images/IMG_3887.png" alt="Page d'accueil centrée sur le jour actuel" width="300"/>
 
 ### Exemple d'un jour précédent avec des abonnements ajoutés
 
@@ -77,7 +77,7 @@ Sur la page d'accueil, si l'utilisateur sélectionne un jour précédent, il peu
 
 Ces abonnements sont identifiés comme des paiements récurrents, marqués avec l'icône **Mensuel**. L'utilisateur peut également supprimer un abonnement en cliquant sur l'icône de la corbeille à côté de chaque élément.
 
-<img src="./images/IMG_3892.png" alt="Exemple d'un jour précédent avec des abonnements ajoutés" width="600"/>
+<img src="./images/IMG_3892.png" alt="Exemple d'un jour précédent avec des abonnements ajoutés" width="300"/>
 
 ---
 
@@ -93,7 +93,7 @@ La page des flux financiers permet à l'utilisateur de visualiser tous ses abonn
 
 Les utilisateurs peuvent filtrer les abonnements en fonction de différents critères via les onglets en haut de l'écran : **Tous**, **Dépenses**, et **Revenus**. De plus, chaque abonnement est marqué comme **Mensuel** ou **Annuel**, et peut être supprimé en cliquant sur l'icône de la corbeille à côté de l'abonnement.
 
-<img src="./images/IMG_3888.png" alt="Pages des flux financiers" width="600"/>
+<img src="./images/IMG_3888.png" alt="Pages des flux financiers" width="300"/>
 
 ### Page d'ajout d'un flux financier
 
@@ -107,7 +107,7 @@ La page d'ajout d'un flux financier permet à l'utilisateur d'ajouter une nouvel
 
 Une fois toutes les informations saisies, l'utilisateur peut cliquer sur le bouton **Ajouter** pour enregistrer le flux financier.
 
-<img src="./images/IMG_3889.png" alt="Page d'ajout d'un flux financier" width="600"/>
+<img src="./images/IMG_3889.png" alt="Page d'ajout d'un flux financier" width="300"/>
 
 ---
 
@@ -125,7 +125,7 @@ L'utilisateur peut :
 - Changer son mot de passe via le lien **Changer le mot de passe**.
 - Se **déconnecter** de son compte avec le bouton **Se déconnecter** en bas de la page.
 
-<img src="./images/IMG_3890.png" alt="Page de profil" width="600"/>
+<img src="./images/IMG_3890.png" alt="Page de profil" width="300"/>
 
 ### Page d'édition du profil
 
@@ -137,7 +137,7 @@ La page d'édition du profil permet à l'utilisateur de mettre à jour ses infor
 
 Une fois les modifications effectuées, l'utilisateur peut enregistrer les changements en cliquant sur le bouton **Enregistrer les modifications**. Si l'utilisateur souhaite annuler les changements, il peut appuyer sur le bouton **Annuler**.
 
-<img src="./images/IMG_3891.png" alt="Page d'édition du profil" width="600"/>
+<img src="./images/IMG_3891.png" alt="Page d'édition du profil" width="300"/>
 
 ### Page de changement de mot de passe
 
@@ -148,7 +148,7 @@ La page de changement de mot de passe permet à l'utilisateur de mettre à jour 
 
 Une fois les champs remplis, l'utilisateur peut valider le changement en cliquant sur le bouton **Valider**. Si l'utilisateur souhaite annuler cette opération, il peut cliquer sur le bouton **Annuler** en bas de la page.
 
-<img src="./images/IMG_3894.png" alt="Page de changement de mot de passe" width="600"/>
+<img src="./images/IMG_3894.png" alt="Page de changement de mot de passe" width="300"/>
 
 ---
 
