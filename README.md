@@ -62,7 +62,7 @@ L'utilisateur peut également :
 Les icônes en bas permettent de naviguer entre les différentes sections de l'application, comme le **Calendrier** et la **Liste des abonnements**.
 
 <p align="center">
-  <img src="./images/IMG_3893.png" alt="Réglage du jour de début du mois" width="300"/>
+  <img src="./images/IMG_3887.png" alt="Page d'accueil centrée sur le jour actuel" width="300"/>
 </p>
 
 ### Réglage du jour de début du mois
@@ -74,7 +74,7 @@ Un calendrier s'affiche, et l'utilisateur peut choisir le jour à partir duquel 
 Cela permet de personnaliser le calcul des dépenses, par exemple si les dépenses sont calculées à partir du 15 du mois plutôt que du 1er.
 
 <p align="center">
-  <img src="./images/IMG_3887.png" alt="Page d'accueil centrée sur le jour actuel" width="300"/>
+  <img src="./images/IMG_3893.png" alt="Réglage du jour de début du mois" width="300"/>
 </p>
 
 ### Exemple d'un jour précédent avec des abonnements ajoutés
