@@ -228,4 +228,8 @@ Une fois les champs remplis, l'utilisateur peut valider le changement en cliquan
 
 ---
 
-Si vous avez des questions supplémentaires ou des suggestions, n'hésitez pas à nous contacter via l'application !
+Si vous avez des questions supplémentaires ou des suggestions, n'hésitez pas à nous contacter via [lucasb0695@gmail.com](mailto:lucasb0695@gmail.com).
+
+---
+
+Vous pouvez consulter la liste complète des rapports de bugs et des évolutions pour l'application MoneyTrak via ce [lien vers le document Google Sheets](https://docs.google.com/spreadsheets/d/1bIyirsWe-3wvHNZ2aqyIoH7-pT10mI9iK2VtLsBjDIo/edit?usp=sharing).
