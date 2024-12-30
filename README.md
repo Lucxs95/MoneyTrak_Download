@@ -123,6 +123,31 @@ Une fois toutes les informations saisies, l'utilisateur peut cliquer sur le bout
   <img src="./images/IMG_3889.png" alt="Page d'ajout d'un flux financier" width="300"/>
 </p>
 
+### Mise à jour d'un abonnement
+
+L'utilisateur peut mettre à jour un abonnement existant en accédant à la page d'édition de l'abonnement. Ici, l'utilisateur peut modifier le **nom**, le **montant**, la **date de début**, la **catégorie**, la **récurrence**, et la **description** de l'abonnement. Une fois les modifications apportées, il suffit de cliquer sur le bouton **Mettre à jour** pour enregistrer les changements.
+
+<p align="center">
+  <img src="./images/IMG_3895.png" alt="Mise à jour d'un abonnement" width="300"/>
+</p>
+
+### Suppression ou désactivation d'un abonnement
+
+L'utilisateur peut supprimer un abonnement de façon permanente ou désactiver un abonnement pour l'historique.  
+1. **Suppression d'un abonnement** : Si l'utilisateur souhaite supprimer un abonnement (par exemple, en cas d'erreur), une confirmation est demandée avant de supprimer l'élément.
+   - L'utilisateur verra un message de confirmation lui demandant s'il est sûr de vouloir supprimer l'élément.
+   - Après confirmation, l'abonnement sera définitivement supprimé.
+
+<p align="center">
+  <img src="./images/IMG_3896.png" alt="Confirmation de suppression d'un abonnement" width="300"/>
+</p>
+
+2. **Désactivation d'un abonnement** : Si l'utilisateur souhaite désactiver un abonnement (pour garder un historique sans qu'il soit pris en compte pour les futurs calculs), un autre message de confirmation apparaît pour demander s'il veut **désactiver** l'abonnement.
+
+<p align="center">
+  <img src="./images/IMG_3897.png" alt="Confirmation de désactivation d'un abonnement" width="300"/>
+</p>
+
 ---
 
 ## 4. Personnalisation du profil
